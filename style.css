@@ -1,5 +1,6 @@
+/* css code */
 .h1 {
-    font-size: 300%;
+    font-size: 50px;
     color: rgba(33, 109, 33, 0.774);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -7,55 +8,69 @@
 .login {
     text-align: left;
     display: inline;
-    font-size: 150%;
+    font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: rgba(88, 88, 88, 0.854);
+    color: rgb(255, 255, 255);
     margin: 100px;
+    background-color: rgb(17, 86, 1);
+    border-radius: 5px;
+    padding: 3px;
 }
 
 .search {
-    font-size: 150%;
+    font-size: 30px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgba(47, 47, 47, 0.515);
     background-color: rgba(174, 174, 174, 0.585);
     margin: 10px;
-    border-radius: 5%;
+    border-radius: 5px;
     width: 300px;
     text-align: center;
+    display: inline-block;
+    padding: 3px;
 }
 
 .logo {
-    border-radius: 10%;
+    border-radius: 10px;
     width: 90px;
     height: 90px;
+    display: inline-block;
 }
 
 .branch {
-    font-size: 150%;
+    font-size: 25px;
+    display: inline-block;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(255, 255, 255);
     background-color: rgb(17, 86, 1);
     margin: 10px;
-    border-radius: 5%;
+    border-radius: 5px;
     width: 100px;
     text-align: center;
+    padding: 3px;
 }
 
 .photo-1 {
-    border-radius: 2.5%;
+    border-radius: 5px;
+    margin-top: 150px;
+    margin-left: 80px;
 }
 
 .photo-2 {
-    border-radius: 3.5%;
+    border-radius: 5px;
+    margin-left: 14px;
 }
 
 .photo-3 {
-    border-radius: 3.5%;
+    border-radius: 5px;
+    position: absolute;
+    top: 155px;
+    right: 233px;
 }
 
 .a1 {
     text-align: center;
-    font-size: 200%;
+    font-size: 40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(16, 145, 16);
 }
@@ -64,9 +79,13 @@
     width: 200px;
     height: 150px;
 }
-
+.asd{
+    position: absolute;
+    top: 710px;
+    right: 20px;
+}
 .a3 {
-    font-size: 200%;
+    font-size: 40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
