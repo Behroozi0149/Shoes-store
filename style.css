@@ -1,4 +1,7 @@
 /* css code */
+body{
+    margin: 0;
+}
 .h1 {
     font-size: 50px;
     color: rgba(33, 109, 33, 0.774);
@@ -64,8 +67,8 @@
 .photo-3 {
     border-radius: 5px;
     position: absolute;
-    top: 155px;
-    right: 233px;
+    top: 150px;
+    right: 240px;
 }
 
 .a1 {
@@ -79,11 +82,7 @@
     width: 200px;
     height: 150px;
 }
-.asd{
-    position: absolute;
-    top: 710px;
-    right: 20px;
-}
+
 .a3 {
     font-size: 40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -92,4 +91,25 @@
 .a22 {
     width: 200px;
     height: 150px;
+}
+
+div {
+    background-color: rgb(36, 145, 12);
+    margin-top: 450px;
+    height: 600px;
+    border-radius: 5px;
+}
+.div{
+    text-align: center;
+    font-size: 70px;
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 30px;
+}
+.logodiv{
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+    margin-left: 570px;
+    margin-top: 20px;
 }
