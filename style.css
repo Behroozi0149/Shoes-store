@@ -25,7 +25,7 @@ body {
     font-size: 30px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgba(47, 47, 47, 0.515);
-    background-color: rgba(174, 174, 174, 0.585);
+    background-color: rgba(148, 147, 147, 0.695);
     margin: 10px;
     border-radius: 5px;
     width: 300px;
@@ -56,20 +56,20 @@ body {
 
 .photo-1 {
     border-radius: 5px;
-    margin-top: 150px;
-    margin-left: 80px;
+    margin-top: 50px;
+    margin-left: 150px;
 }
 
 .photo-2 {
     border-radius: 5px;
-    margin-left: 14px;
+    margin-left: 16px;
 }
 
 .photo-3 {
     border-radius: 5px;
     position: absolute;
-    top: 150px;
-    right: 240px;
+    top: 250px;
+    right: 163px;
 }
 
 .a1 {
@@ -108,17 +108,28 @@ div {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding-top: 10px;
 }
-.info2{
+
+.info2 {
     text-align: center;
     font-size: 70px;
     color: whitesmoke;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding-top: 10px;
 }
+
 .logodiv {
     border-radius: 10px;
     width: 300px;
     height: 300px;
     margin-left: 570px;
     margin-top: 20px;
+}
+
+.menu {
+    position: sticky;
+    top: 0px;
+    z-index: 100;
+    background-color: rgba(200, 200, 200, 0.999);
+    height: 200px;
+    border-radius: 5px;
 }
