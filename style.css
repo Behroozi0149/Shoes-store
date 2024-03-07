@@ -1,6 +1,7 @@
-/* css code */
+/* CSS code */
 body {
     margin: 0;
+    border: 0.5px solid rgba(232, 232, 232, 0.866);
 }
 
 .h1 {
