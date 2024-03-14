@@ -17,6 +17,10 @@
     padding: 3px;
 }
 
+.login:hover {
+    background-color: rgba(22, 110, 3, 0.895);
+}
+
 .search {
     font-size: 30px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -28,10 +32,9 @@
     text-align: center;
     display: inline-block;
     padding: 3px;
-
 }
 
-.search:hover {
+.search:focus {
     background-color: rgba(108, 108, 108, 0.718);
     font-size: 31px;
     padding: 4px;
@@ -55,6 +58,10 @@
     width: 100px;
     text-align: center;
     padding: 3px;
+}
+
+.branch:hover {
+    background-color: rgba(22, 110, 3, 0.895);
 }
 
 .menu {
