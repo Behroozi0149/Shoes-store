@@ -1,9 +1,4 @@
-/* CSS code */
-body {
-    margin: 0;
-    border: 0.5px solid rgba(232, 232, 232, 0.866);
-}
-
+/* menu code */
 .h1 {
     font-size: 50px;
     color: rgba(33, 109, 33, 0.774);
@@ -33,6 +28,13 @@ body {
     text-align: center;
     display: inline-block;
     padding: 3px;
+
+}
+
+.search:hover {
+    background-color: rgba(108, 108, 108, 0.718);
+    font-size: 31px;
+    padding: 4px;
 }
 
 .logo {
@@ -53,77 +55,6 @@ body {
     width: 100px;
     text-align: center;
     padding: 3px;
-}
-
-.photo-1 {
-    border-radius: 5px;
-    margin-top: 50px;
-    margin-left: 150px;
-}
-
-.photo-2 {
-    border-radius: 5px;
-    margin-left: 16px;
-}
-
-.photo-3 {
-    border-radius: 5px;
-    position: absolute;
-    top: 200px;
-    right: 163px;
-}
-
-.a1 {
-    text-align: center;
-    font-size: 40px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: rgb(16, 145, 16);
-}
-
-.a2 {
-    width: 200px;
-    height: 150px;
-}
-
-.a3 {
-    font-size: 40px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-.a22 {
-    width: 200px;
-    height: 150px;
-}
-
-div {
-    background-color: rgb(36, 145, 12);
-    margin-top: 450px;
-    height: 600px;
-    border-radius: 5px;
-}
-
-.info1 {
-    text-align: center;
-    font-size: 70px;
-    color: whitesmoke;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-top: 2px;
-}
-
-.info2 {
-    text-align: center;
-    font-size: 70px;
-    color: whitesmoke;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-top: 2px;
-}
-
-.logodiv {
-    border-radius: 10px;
-    width: 300px;
-    height: 300px;
-    margin-left: 602px;
-    margin-top: 20px;
 }
 
 .menu {

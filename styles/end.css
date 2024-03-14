@@ -1,0 +1,31 @@
+/* footer code */
+div {
+    background-color: rgb(36, 145, 12);
+    margin-top: 450px;
+    height: 600px;
+    border-radius: 5px;
+}
+
+.info1 {
+    text-align: center;
+    font-size: 70px;
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 2px;
+}
+
+.info2 {
+    text-align: center;
+    font-size: 70px;
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 2px;
+}
+
+.logodiv {
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+    margin-left: 602px;
+    margin-top: 20px;
+}
