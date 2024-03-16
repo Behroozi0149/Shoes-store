@@ -71,5 +71,5 @@
     background-color: rgba(244, 241, 241, 0.999);
     height: 150px;
     border-radius: 5px;
-    border: 0.5px solid rgba(226, 226, 226, 0.924);
+    border: 1px groove rgba(234, 234, 234, 0.943);
 }

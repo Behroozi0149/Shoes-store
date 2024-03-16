@@ -9,19 +9,25 @@ body {
     margin-top: 50px;
     margin-left: 150px;
 }
-
+.photo-1:hover{
+    border-radius: 10px;
+}
 .photo-2 {
     border-radius: 5px;
     margin-left: 16px;
 }
-
+.photo-2:hover{
+    border-radius: 10px;
+}
 .photo-3 {
     border-radius: 5px;
     position: absolute;
     top: 200px;
-    right: 163px;
+    right: 168px;
 }
-
+.photo-3:hover{
+    border-radius: 10px;
+}
 .a1 {
     text-align: center;
     font-size: 40px;

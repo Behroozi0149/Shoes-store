@@ -9,23 +9,33 @@ div {
 .info1 {
     text-align: center;
     font-size: 70px;
-    color: whitesmoke;
+    color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-top: 2px;
 }
-
+.info1:hover{
+    font-size: 75px;
+    color: whitesmoke;
+}
 .info2 {
     text-align: center;
     font-size: 70px;
-    color: whitesmoke;
+    color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-top: 2px;
 }
-
+.info2:hover{
+    font-size: 75px;
+    color: whitesmoke;
+}
 .logodiv {
     border-radius: 10px;
     width: 300px;
     height: 300px;
     margin-left: 602px;
     margin-top: 20px;
+}
+.logodiv:hover{
+    width: 310px;
+    height: 310px;
 }
