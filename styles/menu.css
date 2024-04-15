@@ -2,14 +2,12 @@
 .h1 {
     font-size: 50px;
     color: rgba(33, 109, 33, 0.774);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .login {
     text-align: left;
     display: inline;
     font-size: 20px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(255, 255, 255);
     margin: 100px;
     background-color: rgb(17, 86, 1);
@@ -23,7 +21,6 @@
 
 .search {
     font-size: 30px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgba(47, 47, 47, 0.515);
     background-color: rgba(148, 147, 147, 0.695);
     margin: 10px;
@@ -50,7 +47,6 @@
 .branch {
     font-size: 25px;
     display: inline-block;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(255, 255, 255);
     background-color: rgb(17, 86, 1);
     margin: 10px;

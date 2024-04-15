@@ -3,7 +3,10 @@ body {
     margin: 0;
     border: 0.5px solid rgba(232, 232, 232, 0.866);
 }
-
+@font-face {
+    font-family: irfont;
+    src: url(../fonts/irfont.woff);
+}
 .photo-1 {
     border-radius: 5px;
     margin-top: 50px;
@@ -31,7 +34,6 @@ body {
 .a1 {
     text-align: center;
     font-size: 40px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(16, 145, 16);
 }
 
@@ -42,7 +44,6 @@ body {
 
 .a3 {
     font-size: 40px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .a22 {
