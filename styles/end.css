@@ -12,20 +12,24 @@ div {
     color: white;
     margin-top: 2px;
 }
-.info1:hover{
+
+.info1:hover {
     font-size: 75px;
     color: whitesmoke;
 }
+
 .info2 {
     text-align: center;
     font-size: 70px;
     color: white;
     margin-top: 2px;
 }
-.info2:hover{
+
+.info2:hover {
     font-size: 75px;
     color: whitesmoke;
 }
+
 .logodiv {
     border-radius: 10px;
     width: 300px;
@@ -33,7 +37,8 @@ div {
     margin-left: 602px;
     margin-top: 20px;
 }
-.logodiv:hover{
+
+.logodiv:hover {
     width: 310px;
     height: 310px;
 }
