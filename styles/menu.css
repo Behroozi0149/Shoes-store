@@ -17,6 +17,8 @@
 
 .login:hover {
     background-color: rgba(22, 110, 3, 0.895);
+    padding: 5px;
+    border-radius: 5.5;
 }
 
 .search {
@@ -36,7 +38,10 @@
     font-size: 31px;
     padding: 4px;
 }
-
+.search:hover{
+    padding: 5px;
+    background-color: rgba(119, 119, 119, 0.718);
+}
 .logo {
     border-radius: 10px;
     width: 90px;
@@ -58,6 +63,8 @@
 
 .branch:hover {
     background-color: rgba(22, 110, 3, 0.895);
+    padding: 5px;
+    border-radius: 5.5;
 }
 
 .menu {

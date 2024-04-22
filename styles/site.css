@@ -49,6 +49,10 @@ body {
     width: 200px;
     height: 150px;
 }
+.a2:hover{
+    width: 205px;
+    height: 155px;
+}
 
 .a3 {
     font-size: 40px;
@@ -57,4 +61,8 @@ body {
 .a22 {
     width: 200px;
     height: 150px;
+}
+.a22:hover{
+    width: 205px;
+    height: 155px;
 }
