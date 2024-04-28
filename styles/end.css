@@ -11,6 +11,7 @@ div {
     font-size: 70px;
     color: white;
     margin-top: 2px;
+    transition: 0.5s;
 }
 
 .info1:hover {
@@ -23,6 +24,7 @@ div {
     font-size: 70px;
     color: white;
     margin-top: 2px;
+    transition: 0.5s;
 }
 
 .info2:hover {
@@ -36,6 +38,7 @@ div {
     height: 300px;
     margin-left: 602px;
     margin-top: 20px;
+    transition: 0.5s;
 }
 
 .logodiv:hover {
